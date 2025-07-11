@@ -17,6 +17,10 @@ This application predicts whether a patient has:
 
 ...based on features such as **age**, **HbA1c levels**, **BMI**, and more.
 
+<p align="center">
+  <img src="WhatsApp Image 2025-07-11 at 21.49.23_9c8f5de1.jpg" alt="App Interface Screenshot" width="600"/>
+</p>
+
 The model was trained on a dataset (`Dataset of Diabetes.csv`) using an **SVM with an RBF kernel**, including **class weighting** to handle imbalance.
 
 > ⚠️ This app is for **educational purposes only** and is not a substitute for professional medical advice.
