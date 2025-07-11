@@ -141,4 +141,3 @@ This project is for educational purposes only. No medical advice is provided.
 ## 🙏 Acknowledgments
 
 - Built as part of the **Yabatech Digital Academy Team** project  
-- Thanks to the **xAI community** and **Streamlit** for the tools and support
