@@ -140,4 +140,9 @@ This project is for educational purposes only. No medical advice is provided.
 
 ## 🙏 Acknowledgments
 
-- Built as part of the **Yabatech Digital Academy Team** project  
+- Built as part of the **Yabatech Digital Academy Team** project
+
+---
+
+st.image("WhatsApp Image 2025-07-11 at 21.49.23_9c8f5de1.jpg", caption="Interface", use_column_width=True)
+
